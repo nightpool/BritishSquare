@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BritishSquare.iml" filepath="$PROJECT_DIR$/BritishSquare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../idea/SolitairePluginTutorial/SolitairePluginTutorial.iml" filepath="$PROJECT_DIR$/../idea/SolitairePluginTutorial/SolitairePluginTutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../idea/heineman_RedBlack.iml" filepath="$PROJECT_DIR$/../idea/heineman_RedBlack.iml" />
+    </modules>
+  </component>
+</project>
